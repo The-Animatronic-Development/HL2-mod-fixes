@@ -6,8 +6,8 @@ A compilation of contributed fixes for Half-Life 2 / EP1 / EP2 mods that were br
 References
 ----------
 
-Steam community fixes thread: http://steamcommunity.com/app/420/discussions/0/864971765497379056
-Older Steam forums thread with many more fixes: http://forums.steampowered.com/forums/showthread.php?t=1289845
+- Steam community fixes thread: http://steamcommunity.com/app/420/discussions/0/864971765497379056
+- Older Steam forums thread with many more fixes: http://forums.steampowered.com/forums/showthread.php?t=1289845
 
 Half-Life 2 mods
 ----------------
