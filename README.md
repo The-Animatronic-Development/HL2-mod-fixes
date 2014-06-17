@@ -42,3 +42,10 @@ Most HL2 mods can be fixed by modifying the FileSystem block in the gameinfo.txt
 	}
 }
 ```
+
+Working mods
+------------
+
+In my experience, the following mods work fine without modification:
+
+- Riot Act (July 2007) - http://www.moddb.com/mods/riot-act
